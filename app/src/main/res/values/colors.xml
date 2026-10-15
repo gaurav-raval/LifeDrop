@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lifedrop_red">#C93737</color>
+    <color name="lifedrop_red_dark">#AC2F2F</color>
+    <color name="page_bg">#F8F8F6</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="text_primary">#1C1D1B</color>
+    <color name="text_secondary">#77746E</color>
+    <color name="text_muted">#96948D</color>
+    <color name="border">#E8E5DF</color>
+    <color name="soft_red">#FFF0EE</color>
+    <color name="soft_green">#EAF6EE</color>
+    <color name="green">#3F8B5A</color>
+    <color name="dark_pill">#292A27</color>
+</resources>
